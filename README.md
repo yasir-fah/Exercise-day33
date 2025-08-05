@@ -10,7 +10,6 @@
 ---
 
 ## 🔍 Retrieval by Filters
-
 ![Password Check](image/selectLog.png)
 
 ### 📧 Email

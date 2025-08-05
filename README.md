@@ -11,6 +11,8 @@
 
 ## 🔍 Retrieval by Filters
 
+![Password Check](image/selectLog.png)
+
 ### 📧 Email
 ![Email](image/email.png)
 
@@ -27,7 +29,7 @@
 ---
 
 ### 🔑 Password Check
-![Password Check](image/retrievalAtlog.png)
+
 
 
 
